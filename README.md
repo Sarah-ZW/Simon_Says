@@ -1,3 +1,3 @@
 # Simon_Says
 
-A Simon Says game that utilizes JQuery to add animation.
+This Simon Says Project utilizes JavaScript, HTML, CSS, and jQuery (for animation) to recreate this fun memory challenge.
